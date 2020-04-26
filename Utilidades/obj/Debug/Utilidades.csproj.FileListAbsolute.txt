@@ -1,0 +1,11 @@
+C:\Users\aleja\source\repos\InventarioNew\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\aleja\source\repos\InventarioNew\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\aleja\source\repos\InventarioNew\Utilidades\obj\Debug\Utilidades.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\InventarioNew\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\aleja\source\repos\InventarioNew\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\ariel\Downloads\InventarioNew\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\ariel\Downloads\InventarioNew\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\ariel\Downloads\InventarioNew\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Downloads\InventarioNew\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\ariel\Downloads\InventarioNew\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\ariel\Downloads\InventarioNew\Utilidades\obj\Debug\Utilidades.csprojAssemblyReference.cache
